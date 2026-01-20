@@ -84,4 +84,4 @@ else:
     st.info("No corresponde agregar toma de muestra")
 
 st.divider()
-st.caption("Elaborado por TM. Camilo Muñoz, Enero 2025")
+st.caption("Elaborado por TM. Camilo Muñoz, Enero 2026")
