@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Motor de Reglas de Toma de Muestra", layout="centered")
 
-st.image("logo.png", use_container_width=True)
+st.image("logo.png", use_container_width=220)
 
 st.markdown("## Motor de Reglas de Toma de Muestra")
 st.caption("Herramienta explicativa para desarrolladores: lógica de asociación de tomas de muestra")
